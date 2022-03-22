@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<?xml-stylesheet type="text/xsl" href="StyleSheet.xsl"?>
+<!-- <!DOCTYPE Employees SYSTEM "emp_dtd.dtd"> -->
+<Employees>
+<Employee id="1"><Name>asmaa</Name><Email>asmaa</Email><Phone>5885</Phone><Address>skjduioooooo</Address></Employee><Employee id="2"><Name>asmaafaried</Name><Email>asmaa@jjsf.sdvj</Email><Phone>012355885</Phone><Address>gvcs</Address></Employee><Employee id="3"><Name>&lt;br /&gt;&lt;b&gt;Warning&lt;/b&gt;:  Undefined variable $Name in &lt;b&gt;C:\xampp\htdocs\XML\formDesign.php&lt;/b&gt; on line &lt;b&gt;27&lt;/b&gt;&lt;br /&gt;</Name><Email>&lt;br /&gt;&lt;b&gt;Warning&lt;/b&gt;:  Undefined variable $Email in &lt;b&gt;C:\xampp\htdocs\XML\formDesign.php&lt;/b&gt; on line &lt;b&gt;28&lt;/b&gt;&lt;br /&gt;</Email><Phone>&lt;br /&gt;&lt;b&gt;Warning&lt;/b&gt;:  Undefined variable $Phone in &lt;b&gt;C:\xampp\htdocs\XML\formDesign.php&lt;/b&gt; on line &lt;b&gt;29&lt;/b&gt;&lt;br /&gt;</Phone><Address>&lt;br /&gt;&lt;b&gt;Warning&lt;/b&gt;:  Undefined variable $Address in &lt;b&gt;C:\xampp\htdocs\XML\formDesign.php&lt;/b&gt; on line &lt;b&gt;30&lt;/b&gt;&lt;br /&gt;</Address></Employee></Employees>
